@@ -1,0 +1,9 @@
+os
+psutil
+pypresence
+time
+sys
+discord
+asyncio
+colorama
+platform
