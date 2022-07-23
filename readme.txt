@@ -10,8 +10,9 @@ https://www.python.org/downloads/
 
 
 
-Run the "requirements.txt" file it will download the needed modules
-open cmd in folder run command pip install -r requirements.txt
+The required modules are listed in requirements.txt
+they can be installed by running the following command in cmd: pip install pipreqs
+
 
 then run Cloner.py
 
