@@ -1,7 +1,7 @@
 All Credits go to Pepper#5784 as they are the original owner of this code
 
 
-
+Requires Discord.py==1.7.3
 
 Usage:
 
